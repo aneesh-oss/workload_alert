@@ -1,0 +1,5 @@
+**/.terraform/*
+*.sh
+# .tfstate files
+*.tfstate
+*.tfstate.*
